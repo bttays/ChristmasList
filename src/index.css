@@ -150,3 +150,4 @@ button.danger:hover { color: var(--red); }
   .tabs button { padding: 8px 12px; font-size: 0.9rem; }
   .thumb { flex-basis: 52px; height: 52px; }
 }
+.code-input { font-size: 1.5rem; letter-spacing: 0.3em; text-align: center; font-variant-numeric: tabular-nums; }
